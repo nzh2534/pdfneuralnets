@@ -1,0 +1,12 @@
+*.csv
+*.json
+*.pdf
+/subheader_models
+/ran2
+/pdfs
+/misc
+/header_models
+/error2
+/all_models
+/adobe
+private.key
